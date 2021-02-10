@@ -1,0 +1,3 @@
+logging:
+  level:
+    com.feign.error.demo.feign: DEBUG
